@@ -1,0 +1,13 @@
+{
+  "arrivals": [
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "imp"},
+    {"tick": 0, "class": "host"},
+    {"tick": 0, "class": "host"},
+    {"tick": 2, "class": "host"}
+  ]
+}
